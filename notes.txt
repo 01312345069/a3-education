@@ -1,0 +1,30 @@
+navbar
+slider
+optional>
+
+frequncy
+
+footer
+
+css bootstrap 7
+---------------------------
+
+navbar
+slider
+discovrer
+6
+frequncy
+footer
+---------------------
+bonus : 
+
+ready to join click model open.
+
+flexbox and grid 3/5 lines
+bootstrap tailwind
+css box modle
+symantic tag
+
+trusted company<only for large device>
+
+6 gitgub commit
