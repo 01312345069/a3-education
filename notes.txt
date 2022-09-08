@@ -28,3 +28,6 @@ symantic tag
 trusted company<only for large device>
 
 6 gitgub commit
+
+
+justify-content-center align-items-center
